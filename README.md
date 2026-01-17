@@ -19,7 +19,7 @@ The workflow is fully automated using **Databricks Jobs orchestration**.
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 **Medallion Architecture:**
 
@@ -90,7 +90,7 @@ The workflow is fully automated using **Databricks Jobs orchestration**.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Amira Ouaked**
 Data Analyst/Engineer 
