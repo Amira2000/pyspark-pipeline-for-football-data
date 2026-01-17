@@ -68,6 +68,8 @@ The workflow is fully automated using **Databricks Jobs orchestration**.
 * Automates notebook execution using Databricks Jobs
 * Ensures correct task dependencies
 * Simulates a production-ready pipeline
+The orchestration logic and execution flow are documented here:
+- [Pipeline Orchestration](orchestration/orchestration.md)
 
 ---
 
